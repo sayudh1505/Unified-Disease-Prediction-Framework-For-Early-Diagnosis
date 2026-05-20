@@ -1,4 +1,4 @@
-# 🏥 Multiple Disease Prediction System
+# 🏥 Unified-Disease-Prediction-Framework-For-Early-Diagnosis
 
 A modern, web-based clinical decision support assistant built with Python, Streamlit, and Scikit-Learn. The system predicts the risk levels of three major health conditions based on user-provided medical parameters:
 *   **Diabetes (Type-2)**
